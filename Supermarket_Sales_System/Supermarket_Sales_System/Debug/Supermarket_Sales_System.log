@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/11/11 23:07:28。
+     1>项目“G:\C++\Code\Supermarket_Sales_System\Supermarket_Sales_System\Supermarket_Sales_System.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Stdio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>g:\c++\code\supermarket_sales_system\supermarket_sales_system\源.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Visual Stdio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\C++\Code\Supermarket_Sales_System\Debug\Supermarket_Sales_System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\C++\Code\Supermarket_Sales_System\Debug\Supermarket_Sales_System.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\C++\Code\Supermarket_Sales_System\Debug\Supermarket_Sales_System.lib" /MACHINE:X86 "Debug\源.obj"
+         Supermarket_Sales_System.vcxproj -> G:\C++\Code\Supermarket_Sales_System\Debug\Supermarket_Sales_System.exe
+     1>已完成生成项目“G:\C++\Code\Supermarket_Sales_System\Supermarket_Sales_System\Supermarket_Sales_System.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.98
